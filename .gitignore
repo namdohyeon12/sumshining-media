@@ -1,0 +1,7 @@
+# 허용 목록: 승인된 게시용 미디어만
+*
+!*/
+!*.jpg
+!*.mp4
+!README.md
+!.gitignore
